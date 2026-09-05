@@ -1,0 +1,15 @@
+{
+  "projectId": "11750849668417801992",
+  "title": "EnergyCore Landing Page",
+  "designSystem": {
+    "displayName": "EnergyCore Sustainable Intelligence",
+    "primary": "#22C55E",
+    "secondary": "#F59E0B",
+    "neutral": "#121A14",
+    "headlineFont": "SPACE_GROTESK",
+    "bodyFont": "MANROPE",
+    "roundness": "ROUND_TWELVE",
+    "mode": "DARK"
+  },
+  "screens": []
+}
