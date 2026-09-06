@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const APP_URL = "http://localhost:4200/iam/login";
+  const APP_URL = "https://university-energycorp.web.app/iam/login";
   const DEFAULT_LANGUAGE = "en";
   const SUPPORTED_LANGUAGES = ["en", "es"];
 
